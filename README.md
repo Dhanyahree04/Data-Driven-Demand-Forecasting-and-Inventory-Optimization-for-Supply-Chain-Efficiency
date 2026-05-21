@@ -183,11 +183,6 @@ This system can be applied in:
 
 ---
 
-# 👩‍💻 Author
-
-**Shree**
-AI & Data Science Enthusiast
-
 ---
 
 # ⭐ Contribution
